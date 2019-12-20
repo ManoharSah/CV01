@@ -34,10 +34,6 @@ hr{
   margin-bottom: 50px;
 }
 
-a{
-color: #11999E;
-}
-
 .top-container{
   background-color: #E4F9F5;
   position: relative;
@@ -125,5 +121,15 @@ margin-left: 30px;
 }
 
 .stat{
+  color: #EAF6F6;
+  font-size: 0.7S5rem;
+  padding-top: 30px;
+}
+
+a{
+color: #11999E;
+}
+
+a:hover{
   color: #EAF6F6;
 }
