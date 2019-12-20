@@ -107,7 +107,13 @@ margin-left: 30px;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  border-radius: 5%;
+  border-radius: 8px;
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.btn:hover{
+  background-color: #30e3cb;
 }
 
 .footer-link{
@@ -116,4 +122,8 @@ margin-left: 30px;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+.stat{
+  color: #EAF6F6;
 }
